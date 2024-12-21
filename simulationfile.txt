@@ -1,0 +1,2 @@
+N_TPNs	N_IIs	duration	timestep
+3	3	1.0	0.0001

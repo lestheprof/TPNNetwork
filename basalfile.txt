@@ -1,0 +1,5 @@
+n_basalinputs	tau_basal	C_basal	R_basal	R_synba_dendrite	C_basal_spine	R_basal_spine	R_synba_spine	synapsemultiplier
+1	0.005	1.0E-7	5.0E+5	5.0E+5	1.0E-8	1.0E+6	5.0E+5	1.0E-7
+2	0.005	1.0E-7	5.0E+5	5.0E+5	1.0E-8	1.0E+6	5.0E+5	1.0E-7
+1	0.005	1.0E-7	5.0E+5	5.0E+5	1.0E-8	1.0E+6	5.0E+5	1.0E-7
+2	0.005	1.0E-7	5.0E+5	5.0E+5	1.0E-8	1.0E+6	5.0E+5	1.0E-7

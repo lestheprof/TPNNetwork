@@ -1,0 +1,5 @@
+n_apicalinputs	tau_apical	C_apical	R_apical	R_synap_dendrite	C_apical_spine	R_apical_spine	R_synap_spine	synapsemultiplier
+1	0.005	1.0E-7	5.0E+5	5.0E+5	1.0E-8	1.0E+6	5.0E+5	1.0E-7
+2	0.005	1.0E-7	5.0E+5	5.0E+5	1.0E-8	1.0E+6	5.0E+5	1.0E-7
+1	0.005	1.0E-7	5.0E+5	5.0E+5	1.0E-8	1.0E+6	5.0E+5	1.0E-7
+2	0.005	1.0E-7	5.0E+5	5.0E+5	1.0E-8	1.0E+6	5.0E+5	1.0E-7

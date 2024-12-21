@@ -1,0 +1,6 @@
+refractoryperiod	relrefperiod	thresh_leap	thresh_decay	thresh_value	maxnospikes
+0.0060	0.0400	8	 100	5	1000
+0.0060	0.0400	8	 100	5	1000
+0.0060	0.0400	8	 100	5	1000
+0.0060	0.0400	8	 100	5	1000
+0.0060	0.0400	8	 100	5	1000

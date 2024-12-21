@@ -1,0 +1,7 @@
+from_ntype	from_nno	to_ntype	to_nno	to_syntype	to_synno	delay
+TPN	1	II	1	S	1	0.05
+TPN	2	II	2	S	1	0.03
+II	1	TPN	1	AS	1	0.03
+II	1	TPN	1	BS	1	0.04
+II	2	TPN	2	AS	1	0.03
+II	2	TPN	2	BS	1	0.04

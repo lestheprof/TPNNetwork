@@ -1,0 +1,6 @@
+apicalshuntduration	basalshuntduration	noapicalshunts	nobasalshunts
+0.005	0.006	1	1
+0.005	0.006	2	2
+0.005	0.006	1	1
+0.005	0.006	2	1
+0.005	0.006	1	2
